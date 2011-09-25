@@ -1,0 +1,67 @@
+/* Green */
+
+body.bc-green {
+	border-top: 4px solid #74A824;
+}
+
+.bc-green .contentheading,
+.bc-green #main-section a,
+.bc-green .moduletable h3,
+.bc-green #left-column .module h3,
+.bc-green #right-column .module h3,
+.bc-green #left-column .module-menu h3,
+.bc-green #right-column .module-menu h3,
+.bc-green #bottommodules1 .module h3,
+.bc-green #bottommodules2 .module h3,
+.bc-green #sub-menu a {
+	color: #74A824;
+}
+
+.bc-green img#logo {
+	background: url(../images/green/logo.png) 0 0 no-repeat;
+}
+
+.bc-green #showcase {
+	background: #577E1B url(../images/green/showcase-bg.png) 0 0 no-repeat;
+}
+
+.bc-green .showcase-div {
+	background: url(../images/green/showcase-div.png) 0 0 repeat-x;
+}
+
+.bc-green #showcase .column-1 {
+	border-right: 1px solid #91AF02;
+}
+
+.bc-green #showcase a {
+	color: #CEE291;
+}
+
+.bc-green #showcase ul.latestnews li {
+	background-color: #3C5713;
+}
+
+.bc-green #showcase ul.latestnews li:hover {
+	background-color: #2E440F;
+}
+
+.bc-green .date-block {
+	border-bottom: 1px solid #91AF02;
+}
+
+.bc-green span.date-number {
+	background: #71A029;
+	color: #fff;
+}
+
+.bc-green #horiz-menu li.active a,
+.bc-green #bottom-menu ul#mainlevel-bottom a#active_menu.mainlevel-bottom,
+.bc-green #bottom-menu ul#mainlevel-bottom a.mainlevel-bottom:hover {
+	border-top: 5px solid #74A824;
+	color: #74A824;
+}
+
+.bc-green #news-rotator .story {
+	border-top: 5px solid #91AF02;
+	color: #CEE291;
+}

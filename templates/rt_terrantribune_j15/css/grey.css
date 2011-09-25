@@ -1,0 +1,70 @@
+/* Grey */
+
+body.bc-grey {
+	border-top: 4px solid #333;
+}
+
+.bc-grey .contentheading,
+.bc-grey .moduletable h3,
+.bc-grey #left-column .module h3,
+.bc-grey #right-column .module h3,
+.bc-grey #left-column .module-menu h3,
+.bc-grey #right-column .module-menu h3,
+.bc-grey #bottommodules1 .module h3,
+.bc-grey #bottommodules2 .module h3,
+.bc-grey #sub-menu a {
+	color: #000;
+}
+
+.bc-grey #main-section a {
+	color: #D12E2E;
+}
+
+.bc-grey img#logo {
+	background: url(../images/grey/logo.png) 0 0 no-repeat;
+}
+
+.bc-grey #showcase {
+	background: #444 url(../images/grey/showcase-bg.png) 0 0 no-repeat;
+}
+
+.bc-grey .showcase-div {
+	background: url(../images/grey/showcase-div.png) 0 0 repeat-x;
+}
+
+.bc-grey #showcase .column-1 {
+	border-right: 1px solid #777;
+}
+
+.bc-grey #showcase a {
+	color: #ccc;
+}
+
+.bc-grey #showcase ul.latestnews li {
+	background-color: #333;
+}
+
+.bc-grey #showcase ul.latestnews li:hover {
+	background-color: #1f1f1f;
+}
+
+.bc-grey .date-block {
+	border-bottom: 1px solid #777;
+}
+
+.bc-grey span.date-number {
+	background: #111;
+	color: #fff;
+}
+
+.bc-grey #horiz-menu li.active a,
+.bc-grey #bottom-menu ul#mainlevel-bottom a#active_menu.mainlevel-bottom,
+.bc-grey #bottom-menu ul#mainlevel-bottom a.mainlevel-bottom:hover {
+	border-top: 5px solid #000;
+	color: #000;
+}
+
+.bc-grey #news-rotator .story {
+	border-top: 5px solid #777;
+	color: #ccc;
+}

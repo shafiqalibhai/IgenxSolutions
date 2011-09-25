@@ -1,0 +1,15 @@
+/* font tweaking for optima/lucida font */
+#ff-optima h1,#ff-optima h2,#ff-optima h3,#ff-optima h4,#ff-optima h5,#ff-optima h6, #ff-lucida h1,#ff-lucida h2,#ff-lucida h3,#ff-lucida h4,#ff-lucida h5,#ff-lucida h6 {letter-spacing: -0.07em;}
+body#ff-optima, body#ff-lucida {letter-spacing: -0.03em;}
+body#ff-georgia, body#ff-georgia.f-default {font-size: 12px;}
+#horiz-menu ul li {z-index: 100;}
+span.pathway {display: block;float: left;line-height: 27px;}
+span.pathway a {display: block;float: left;}
+span.pathway img {vertical-align: middle;display: block;float: left;}
+#bottom-menu {zoom: 1;}
+ul.latestnews {margin: 0;}
+#left-column .module div div div, #left-column .module-title div div div, #left-column .module-notitle div div div, #right-column .module div div div, #right-column .module-title div div div, #right-column .module-notitle div div div, #mainmodules .module div div div, #mainmodules .module-title div div div, #mainmodules .module-notitle div div div, #bottommodules1 .module div div div, #bottommodules1 .module-title div div div, #bottommodules1 .module-notitle div div div, #bottommodules2 .module div div div, table.blog div, .moduletable div, #main-section, #center-column, #left-column, #right-column, .main-content, #footer {zoom: 1;}
+.mininews-bottom {height: 1px;}
+#news-rotator .story {top: 180px;}
+span.date-number {line-height: 1.4em;}
+.menu span {cursor:pointer;}

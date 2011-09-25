@@ -1,0 +1,67 @@
+/* Orange */
+
+body.bc-orange {
+	border-top: 4px solid #CC8300;
+}
+
+.bc-orange .contentheading,
+.bc-orange #main-section a,
+.bc-orange .moduletable h3,
+.bc-orange #left-column .module h3,
+.bc-orange #right-column .module h3,
+.bc-orange #left-column .module-menu h3,
+.bc-orange #right-column .module-menu h3,
+.bc-orange #bottommodules1 .module h3,
+.bc-orange #bottommodules2 .module h3,
+.bc-orange #sub-menu a {
+	color: #CC8300;
+}
+
+.bc-orange img#logo {
+	background: url(../images/orange/logo.png) 0 0 no-repeat;
+}
+
+.bc-orange #showcase {
+	background: #915D00 url(../images/orange/showcase-bg.png) 0 0 no-repeat;
+}
+
+.bc-orange .showcase-div {
+	background: url(../images/orange/showcase-div.png) 0 0 repeat-x;
+}
+
+.bc-orange #showcase .column-1 {
+	border-right: 1px solid #CC8300;
+}
+
+.bc-orange #showcase a {
+	color: #FFE4A0;
+}
+
+.bc-orange #showcase ul.latestnews li {
+	background-color: #7F5102;
+}
+
+.bc-orange #showcase ul.latestnews li:hover {
+	background-color: #593A02;
+}
+
+.bc-orange .date-block {
+	border-bottom: 1px solid #CC8300;
+}
+
+.bc-orange span.date-number {
+	background: #C98202;
+	color: #fff;
+}
+
+.bc-orange #horiz-menu li.active a,
+.bc-orange #bottom-menu ul#mainlevel-bottom a#active_menu.mainlevel-bottom,
+.bc-orange #bottom-menu ul#mainlevel-bottom a.mainlevel-bottom:hover {
+	border-top: 5px solid #CC8300;
+	color: #CC8300;
+}
+
+.bc-orange #news-rotator .story {
+	border-top: 5px solid #CC8300;
+	color: #FFE4A0;
+}

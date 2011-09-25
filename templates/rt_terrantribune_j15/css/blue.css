@@ -1,0 +1,67 @@
+/* Blue */
+
+body.bc-blue {
+	border-top: 4px solid #0D5079;
+}
+
+.bc-blue .contentheading,
+.bc-blue #main-section a,
+.bc-blue .moduletable h3,
+.bc-blue #left-column .module h3,
+.bc-blue #right-column .module h3,
+.bc-blue #left-column .module-menu h3,
+.bc-blue #right-column .module-menu h3,
+.bc-blue #bottommodules1 .module h3,
+.bc-blue #bottommodules2 .module h3,
+.bc-blue #sub-menu a {
+	color: #0D507A;
+}
+
+.bc-blue img#logo {
+	background: url(../images/blue/logo.png) 0 0 no-repeat;
+}
+
+.bc-blue #showcase {
+	background: #0D4E76 url(../images/blue/showcase-bg.png) 0 0 no-repeat;
+}
+
+.bc-blue .showcase-div {
+	background: url(../images/blue/showcase-div.png) 0 0 repeat-x;
+}
+
+.bc-blue #showcase .column-1 {
+	border-right: 1px solid #166C97;
+}
+
+.bc-blue #showcase a {
+	color: #D0F0FF;
+}
+
+.bc-blue #showcase ul.latestnews li {
+	background-color: #083552;
+}
+
+.bc-blue #showcase ul.latestnews li:hover {
+	background-color: #06273C;
+}
+
+.bc-blue .date-block {
+	border-bottom: 1px solid #1478B7;
+}
+
+.bc-blue span.date-number {
+	background: #1478B7;
+	color: #fff;
+}
+
+.bc-blue #horiz-menu li.active a,
+.bc-blue #bottom-menu ul#mainlevel-bottom a#active_menu.mainlevel-bottom,
+.bc-blue #bottom-menu ul#mainlevel-bottom a.mainlevel-bottom:hover {
+	border-top: 5px solid #0D507A;
+	color: #0D507A;
+}
+
+.bc-blue #news-rotator .story {
+	border-top: 5px solid #1478B7;
+	color: #D0F0FF;
+}
